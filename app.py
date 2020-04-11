@@ -13,8 +13,8 @@ server = app.server
 # App Layout Here
 ##############
 app.layout = html.Div([
-    html.H1("This is my App!"),
-    html.Div(id="hello-world", children="hello world!")
+    html.H1("Practice Dashboard"),
+    html.H2("Iris Dataset")
 ])
 
 
